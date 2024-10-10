@@ -12,9 +12,6 @@
 
 #
 
-<p align="left">
-  💌 <strong>Contact me</strong>
-</p>
 
 ###
 
