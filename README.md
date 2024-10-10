@@ -8,5 +8,5 @@
 **Software Developer**.
 
 - 🐍 Focused python Developer
-- 🎓 Associate's Degree graduating in System Analysis and Development at 
+- 🎓 Associate's Degree graduating in System Analysis and Development at <br/>
 [Uninter - International University Center](https://www.uninter.com/)
