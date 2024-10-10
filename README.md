@@ -1,6 +1,6 @@
 # Messa, Software Developer
 
-## 👋 About Me
+## About Me
 
 ### 🐍 Focused Python Developer
 - Experience with web development using Django.
