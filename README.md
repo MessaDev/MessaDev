@@ -5,7 +5,7 @@
   👋 <strong>About me</strong>
 </p>
 
-**Software Developer**. I'm looking for a professional opportunity where I can contribute effectively and continuously enhance my technical expertise.
+**Software Developer**.
 
 - 🐍 Focused python Developer
 - 🎓 Associate's Degree graduating in System Analysis and Development at 
