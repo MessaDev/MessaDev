@@ -1,10 +1,4 @@
-**Software Developer**.
-
-- 🐍 Focused python Developer
-
 # Messa, Software Developer
-
-!Illustration of a computer
 
 ## 👋 About Me
 
