@@ -21,3 +21,4 @@
 ### 📫 Contact
 - **LinkedIn:** [Biel Moreira](https://www.linkedin.com/in/biel-moreira-3880b715a/)
 - **Email:** messazabiel@gmail.com
+- [**WhatsApp**](https://wa.me/+5538999102251) 
