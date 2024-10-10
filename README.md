@@ -15,9 +15,6 @@
 
 ###
 
-[![Linkedin]
-[![Gmail Badge]
-
 ###
 
 ###
