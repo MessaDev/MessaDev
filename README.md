@@ -13,7 +13,7 @@
 - Studied for a time at the Federal University.
 
 ### Hard Skills
-- **Languages:** Python, JavaScript.
+- **Languages:** Python, JavaScript, HTML, CSS.
 - **Frameworks:** Django, Flask.
 - **Tools:** Git, Docker, PostgreSQL.
 - **Others:** Advanced English, quick learner.
