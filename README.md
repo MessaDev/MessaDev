@@ -7,5 +7,5 @@
 
 **Software Developer**. I'm looking for a professional opportunity where I can contribute effectively and continuously enhance my technical expertise.
 
-- 🌱 Spring-focused python Developer
+- 🌱 Focused python Developer
 - 🎓 Associate's Degree graduating in System Analysis and Development at [Uninter - International University Center](https://www.uninter.com/)
