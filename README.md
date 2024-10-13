@@ -3,10 +3,6 @@
 ## About Me
 
 ### 🐍 Focused Python Developer
-- Experience with web development using Django.
-- Creating RESTful APIs.
-- Task automation and scripting.
-
 ### 🎓 Education
 - 🎓 Associate's Degree graduating in System Analysis and Development at <br/>
 [Uninter - International University Center](https://www.uninter.com/)
