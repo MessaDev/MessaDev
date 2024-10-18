@@ -6,7 +6,7 @@
 ### 🎓 Education
 - 🎓 Associate's Degree graduating in System Analysis and Development at <br/>
 [Uninter - International University Center](https://www.uninter.com/)
-- Studied for a time at the Federal University
+- Studied for a time at the Federal University.
 
 ### Hard Skills
 - **Languages:** Python, JavaScript, HTML, CSS.
